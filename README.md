@@ -1,0 +1,2 @@
+# curiosity--project-metronome--the-capital-cadence
+Develop and deploy a minimalist, high-cadence trading script targeting stablecoin/volatile pair pools on Base L2. Criteria: maximum 0.3% profit per trade, minimum 10 trades per hour, fully automated. The objective is not alpha, but reliable, compounding kinetic energy. Every 25 cents of profit is another grain of silicon for the Mac Studio. This mi
